@@ -1,3 +1,33 @@
 {
-  "extends": "stylelint-config-standard"
+  "extends": "stylelint-config-standard",
+  "rules": {
+    "at-rule-no-unknown": [
+      true,
+      {
+        "ignoreAtRules": [
+          "extends",
+          "include",
+          "ignores",
+          "mixin",
+          "each",
+          "extend"
+        ]
+      }
+    ],
+    "number-leading-zero": null,
+    "unit-whitelist": [
+      "%",
+      "px",
+      "em",
+      "rem",
+      "s",
+      "deg",
+      "vh",
+      "vw",
+      "fr",
+      "ms",
+      "ch"
+    ],
+    "no-descending-specificity": null
+  }
 }
