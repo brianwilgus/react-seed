@@ -19,6 +19,7 @@
     ],
     "rules": {
         "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
-        "react/jsx-one-expression-per-line": [0, { "allow": "none" }]
+        "react/jsx-one-expression-per-line": [0, { "allow": "none" }],
+        "react/prop-types": [2, { "ignore": ["children"] }]
     }
 }

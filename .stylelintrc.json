@@ -26,7 +26,8 @@
       "vw",
       "fr",
       "ms",
-      "ch"
+      "ch",
+      "vmin"
     ],
     "no-descending-specificity": null
   }
