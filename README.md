@@ -72,3 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Libraries used
 
 * [stylelint.io](https://stylelint.io/) : style linter -- to run type `npx stylelint "src/*.css"`
+* [eslint.org](https://eslint.org/docs/user-guide/getting-started) : javascript linter -- to run type `npm run lint:fix`
