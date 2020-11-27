@@ -73,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 * [stylelint.io](https://stylelint.io/) : style linter -- to run type `npx stylelint "src/*.css"`
 * [eslint.org](https://eslint.org/docs/user-guide/getting-started) : javascript linter -- to run type `npm run lint:fix`
+* [react-bootstrap](https://react-bootstrap.github.io/) : component framework and bootstrap stylesheet
+* [node-sass](https://github.com/sass/node-sass) : stylesheet preprocessor
+
